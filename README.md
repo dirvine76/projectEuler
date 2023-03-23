@@ -1,2 +1,2 @@
 # projectEuler
-Store for my solutions to problems from project Euler
+My solutions to problems from project Euler
